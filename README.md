@@ -225,7 +225,7 @@ Navigate to **Firewall** → **NAT** → **Port Forward**
 4. **Forward Port:** Port your service runs on (e.g., `3000`)
 5. **Cache Assets:** Enable if desired
 6. **Block Common Exploits:** ✅ Enable
-7. **Websockets Support:** ✅ Enable if your service needs it
+7. **Websockets Support:** ✅ Enable it since opewenbui uses it for transport
 
 ### Step 3: Configure SSL Tab
 
