@@ -166,6 +166,9 @@ For each service you want to expose:
 3. Click **Save**
 4. Apply changes when prompted
 
+### PFSENSE
+Services > DNS Resolver > Host override
+
 ### Step 3: Verify DNS Resolution
 
 Test from a local device:
